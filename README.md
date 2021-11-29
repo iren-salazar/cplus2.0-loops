@@ -1,4 +1,4 @@
-#C++ loops 
+C++ loops 
 The sum of numbers and prog. will stop if i'll type " 0 "
 
 #include <iostream>
